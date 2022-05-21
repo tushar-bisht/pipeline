@@ -1,0 +1,6 @@
+vendor/*
+examples/*
+doc/*
+templates/*
+themes/*
+sql/*
